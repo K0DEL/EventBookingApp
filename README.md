@@ -1,16 +1,17 @@
-# app
+# Event Booking APP
 
-A new Flutter project.
+PlotLine Assignment.
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
+### Home Screen
 
-A few resources to get you started if this is your first Flutter project:
+![Home Screen](images/ss1.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Booking Screen
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Booking Screen](images/ss2.png)
+
+### Booked Tickets Screen
+
+![Booked Tickets Screen](images/ss3.png)
