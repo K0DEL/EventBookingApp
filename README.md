@@ -6,12 +6,12 @@ PlotLine Assignment.
 
 ### Home Screen
 
-![Home Screen](images/ss1.png)
+!<img src="images/ss1.png" alt="Home Screen" width="300"/>
 
 ### Booking Screen
 
-![Booking Screen](images/ss2.png)
+!<img src="images/ss2.png" alt="Booking Screen" width="300"/>
 
 ### Booked Tickets Screen
 
-![Booked Tickets Screen](images/ss3.png)
+!<img src="images/ss3.png" alt="Booked Tickets Screen" width="300"/>
